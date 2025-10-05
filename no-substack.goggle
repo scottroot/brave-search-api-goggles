@@ -1,0 +1,8 @@
+! name: No Substack
+! description: removes Substack from results
+! public: false
+! author: scottroot
+
+$downrank,site=medium.com
+
+$discard,site=substack.com
