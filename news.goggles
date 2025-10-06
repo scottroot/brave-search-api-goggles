@@ -3,8 +3,7 @@
 ! public: false
 ! author: scottroot
 
-$downrank,site=medium.com
-
+$discard,site=medium.com
 $discard,site=substack.com
 $discard,site=wikipedia.org
 $discard,site=en.wikipedia.org
