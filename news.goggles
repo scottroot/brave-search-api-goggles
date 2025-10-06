@@ -6,3 +6,5 @@
 $downrank,site=medium.com
 
 $discard,site=substack.com
+$discard,site=wikipedia.org
+$discard,site=arxiv.org
