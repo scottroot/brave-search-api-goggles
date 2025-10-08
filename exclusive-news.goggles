@@ -1,0 +1,13 @@
+! name: Tech blogs
+! description: Rerank to only show select news sources.
+! public: true
+! author: scottroot
+
+$discard
+$boost=3,site=techcrunch.com
+$boost=3,site=reuters.com
+$boost=3,site=techcrunch.com
+$boost=3,site=theverge.com
+$boost=3,site=apnews.com
+$boost=3,site=axios.com
+
